@@ -3,11 +3,11 @@
   <br>
   <a href="https://github.com/maskstudios/growtopia-autofarm"><img src="https://cdn.discordapp.com/attachments/1064084096793456751/1070744251689873479/ItemSprites.ico" alt="Growtpia AutoFarm" width="200"></a>
   <br>
-  Growtopia Bruteforcer
+  Growtopia Auto Farm
   <br>
 </h1>
 
-<h4 align="center">Growtopia bruteforcer (hack any accounts) <a href="https://github.com/maskstudios/growtopia-autofarm" target="_blank">AUTOFARM</a>.</h4>
+<h4 align="center">Growtopia Auto Farm (NO GABB) <a href="https://github.com/maskstudios/growtopia-autofarm" target="_blank">AUTOFARM</a>.</h4>
 
 
 <p align="center">
