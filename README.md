@@ -25,6 +25,7 @@
 * Auto Fish
 * Auto Collect
 * Auto Connect
+* Auto Plant / Harvest
 * Growscan
 * Spammer
 * Multibox
